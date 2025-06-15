@@ -5,7 +5,7 @@
 
 ___
 
-### 🔧 About Me
+# 🔧 About Me
 
 - 🎓 I'm currently studying **Automation Engineering**
 - 🧠 I’m learning **C#, .NET, SQL, data structures, and system fundamentals**
@@ -14,7 +14,7 @@ ___
 
 ___
 
-### 🚀 Technical Skills & Tools
+# 🚀 Technical Skills & Tools
 
  **Programming Languages:**
   - C++
@@ -40,7 +40,7 @@ ___
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
