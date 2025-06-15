@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Zakaria 👋</h1>
+<h1 align="left">Hi, I'm Zakaria Sahki 👋</h1>
 <p align="left">
   Aspiring Automation Engineer & Software Developer | Passionate about Control Systems, and Backend Development
 </p>
