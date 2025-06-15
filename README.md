@@ -4,8 +4,7 @@
 </p>
 
 ___
-
-# 🔧 About Me
+<h1 align="left"><sub>🔧 About Me</sub></h1>
 
 - 🎓 I'm currently studying **Automation Engineering**
 - 🧠 I’m learning **C#, .NET, SQL, data structures, and system fundamentals**
@@ -13,8 +12,7 @@ ___
 - 📈 I’m working toward combining industrial automation with modern software practices
 
 ___
-
-# 🚀 Technical Skills & Tools
+<h1 align="left"><sub> 🚀 Technical Skills & Tools </sub></h1>
 
  **Programming Languages:**
   - C++
@@ -39,8 +37,7 @@ ___
 </p> -->
 
 ---
-
-# 📊 GitHub Stats
+<h1 align="left"><sub> 📊 GitHub Stats </sub></h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
