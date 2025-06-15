@@ -3,7 +3,7 @@
   Aspiring Automation Engineer & Software Developer | Passionate about Control Systems, and Backend Development
 </p>
 
----
+___
 
 ### 🔧 About Me
 
@@ -12,17 +12,31 @@
 <!-- - ⚡ Interested in **PLC Programming**, **SCADA**, and **Backend Systems** -->
 - 📈 I’m working toward combining industrial automation with modern software practices
 
----
+___
 
-### 🚀 Tech Stack & Tools
+### 🚀 Technical Skills & Tools
 
-<p align="left">
+ **Programming Languages:**
+  - C++
+  - MATLAB
+  
+  **Tools:**
+  - Git
+  - Visual Studio
+
+  **Computer Science Fundamentals**
+  - Data Structures & Algorithms, OOP
+
+  **Soft Skills**
+  - Problem Solving, Continuous Learning
+
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PLC-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SCADA-blue?style=for-the-badge"/>
-</p>
+</p> -->
 
 ---
 
