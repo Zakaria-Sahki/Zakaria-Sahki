@@ -1,6 +1,5 @@
-## Hi there 👋
-<h1 align="center">Hi, I'm Zakaria 👋</h1>
-<p align="center">
+<h1 align="left">Hi, I'm Zakaria 👋</h1>
+<p align="left">
   Aspiring Automation Engineer & Software Developer | Passionate about Control Systems, and Backend Development
 </p>
 
@@ -38,9 +37,9 @@
 
 ### 📫 Let's Connect!
 
-- 📧 Email: your@email.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(if any)*
+- 📧 Email: zakariasahki028@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/zakaria-sahki)
+<!-- 🌐 [Portfolio Website](https://yourwebsite.com) *(if any)* -->
 
 ---
 
