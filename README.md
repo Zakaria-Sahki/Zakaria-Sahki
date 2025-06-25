@@ -17,6 +17,7 @@ ___
  **Programming Languages:**
   - C++
   - MATLAB
+  - C#
   
   **Tools:**
   - Git
@@ -35,14 +36,6 @@ ___
   <img src="https://img.shields.io/badge/PLC-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SCADA-blue?style=for-the-badge"/>
 </p> -->
-
----
-<h1 align="left"><sub> 📊 GitHub Stats </sub></h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
-</p>
 
 ---
 
