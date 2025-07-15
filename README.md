@@ -15,9 +15,9 @@ ___
 <h1 align="left"><sub> 🚀 Technical Skills & Tools </sub></h1>
 
  **Programming Languages:**
-  - C++
-  - MATLAB
-  - C#
+  - C++ **(Algorithms, logic building, and console-based apps.)**
+  - MATLAB **(Matrix manipulation, signal processing, simulations with Simulink, numerical methods.)**
+  - C# **(Windows Forms apps with events, UI design.)**
   
   **Tools:**
   - Git
