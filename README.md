@@ -4,6 +4,11 @@
 </p>
 
 ___
+<h1 align="left"><sub> 🚀 Tools </sub></h1>
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,matlab,py,visualstudio,vscode,)](https://skillicons.dev)
+
+___
+
 <h1 align="left"><sub>🔧 About Me</sub></h1>
 
 - 🎓 I'm currently studying **Automation Engineering**
