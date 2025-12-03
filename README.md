@@ -5,7 +5,7 @@
 
 ___
 <h1 align="left"><sub> 🚀 Tools </sub></h1>
-<img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,matlab,py,visualstudio,vscode"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,matlab,py,visualstudio,vscode,git"/>
 
 
 <h1 align="left"><sub>🔧 About Me</sub></h1>
