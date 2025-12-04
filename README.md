@@ -17,11 +17,12 @@ ___
 
 <h1 align="left"><sub>🛠 My Tech Stack:</sub></h1>
 
-- **Languages:** Python, C#, C++, .Net, MATLAB.
+- **Languages:** Python, C#, C++, MATLAB.
 - **Desktop Development:** Windows (C#, .NET, Windows Forms).
 - **Embedded Systems:** C, Assembly.
 - **Programmable Logic Controller:** Ladder Diagram.
-- **Computer Science Fundamentals:** Data Structures & Algorithms, OOP, DataBases
+- **Computer Science Fundamentals:** Data Structures & Algorithms, OOP, DataBases.
+- **Automation Fundametls:** Electricity, PLC, Sensors & Actuators, Control.
 
 
 <h1 align="left"><sub> 📫 Let's Connect! </sub></h1>
