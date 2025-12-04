@@ -10,9 +10,9 @@ ___
 
 <h1 align="left"><sub>🔧 About Me</sub></h1>
 
-- 🎓 I'm currently studying **Automation Engineering in the last year**
-- 🧠 I’m learning **C#, .NET, SQL, data structures, and system fundamentals**
-<!-- - ⚡ Interested in **PLC Programming**, **SCADA**, and **Backend Systems** -->
+- 🎓 I'm currently in my final year of studying **automation engineering**.
+- 🧠 I’m learning **C#, .NET, SQL, data structures, and Backend Systems**
+- ⚡ Interested in **PLC Programming**, **SCADA**, **HMI**, and **system fundamentals**
 - 📈 I’m working toward combining industrial automation with modern software practices
 
 <h1 align="left"><sub>🛠 My Tech Stack:</sub></h1>
