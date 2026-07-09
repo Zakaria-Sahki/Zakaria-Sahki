@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Zakaria Sahki 👋</h1>
 <p align="left">
-  Aspiring Automation Engineer & Software Developer | Passionate about Control Systems, and Backend Development
+  Aspiring Software Developer | Passionate about building efficient Software Solutions
 </p>
 
 ___
