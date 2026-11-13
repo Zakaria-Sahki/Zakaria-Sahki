@@ -10,7 +10,7 @@ ___
 
 <h1 align="left"><sub>🔧 About Me</sub></h1>
 
-- 🎓 I'm currently in my final year of studying **automation engineering**.
+- 🎓 **Industrial Automation** graduate, passionate about automation, programming, and innovative technologies.
 - 🧠 I’m learning **C#, .NET, SQL, data structures, and Backend Systems**
 - 📈 I’m working toward combining industrial automation with modern software practices
 
